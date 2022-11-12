@@ -1,0 +1,26 @@
+body
+{
+    background-image:url("pr.jpg");
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+.div1
+{
+    margin-top: 50px;
+    background-color: black;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#mycanvas
+{
+    border-width: 5px;
+    border-color: black;
+    border-style: ridge;
+    background-color: white;
+}
+h2
+{
+    font-family: 'Kanit', sans-serif;
+    color: white;
+}
